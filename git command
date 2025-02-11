@@ -29,3 +29,6 @@ command for adding user name.
 
  command for moving from staging area to local repositary
  >git commit -m "update message to understand"
+
+command for checking path remote name
+>git remote -v
