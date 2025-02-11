@@ -16,9 +16,16 @@ command for adding user name.
 >git config --global user.email "useremail" 
  
  command for initializing git in pwd 
- 
- >git init 
+  >git init 
+
  
  command for listing all untracked files 
- 
  >git status 
+
+
+ command for adding from local working directory to staging area 
+ >git add -A
+
+
+ command for moving from staging area to local repositary
+ >git commit -m "update message to understand"
