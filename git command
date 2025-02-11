@@ -1,0 +1,24 @@
+> command for checking git version
+ 
+ >git --version
+
+ 
+ command for listing configuration 
+ 
+>git config --list 
+
+command for adding user name. 
+
+>git config --global user.name "username" 
+
+ command for adding user email 
+ 
+>git config --global user.email "useremail" 
+ 
+ command for initializing git in pwd 
+ 
+ >git init 
+ 
+ command for listing all untracked files 
+ 
+ >git status 
